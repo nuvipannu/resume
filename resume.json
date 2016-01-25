@@ -1,108 +1,196 @@
 {
   "basics": {
     "name": "Nuvi Pannu",
-    "label": "Programmer",
-    "picture": "",
-    "email": "npannu@gmail.com",
-    "phone": "(912) 555-4321",
-    "website": "http://nuvipannu.com",
-    "summary": "<3",
+    "label": "Developer/Tech ♡er",
+    "picture": "http://i.imgur.com/ns7polk.jpg?1",
+    "email": "nuvipannu@gmail.com",
+    "phone": "(408) 500-8469",
+    "website": "",
+    "summary": "Nuvi is a highly motivated tech-support enthusiast with programming experience skilled in troubleshooting, analyzing and resolving complex technical issues. She has technical experience and exposure to programming as she is currently working as a software engineer at a startup. Nuvi uses Github very often on the job and loves the developers on there. She loves interacting with people and talking about technical concepts while finding solutions to open-ended problems. She also enjoys writing with an empathetic yet unique voice and is able to do it in a clear and concise manner. Nuvi is really passionate about helping people and improving people’s lives with the use of innovative products.",
     "location": {
-      "address": "...",
-      "postalCode": "CA 94115",
-      "city": "San Jose",
+      "address": "",
+      "postalCode": "",
+      "city": "",
       "countryCode": "US",
       "region": "California"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "neutralthoughts",
-        "url": ""
+        "network": "😻 Github",
+        "username": "nuvipannu",
+        "url": "https://github.com/nuvipannu"
       },
       {
-        "network": "SoundCloud",
-        "username": "dandymusicnl",
-        "url": "https://soundcloud.com/dandymusicnl"
+        "network": "💘 LinkedIn",
+        "username": "nuvipannu",
+        "url": "https://linkedin.com/in/nuvipannu"
+      },
+      {
+        "network": "💙 Twitter",
+        "username": "nuvipannu",
+        "url": "https://twitter.com/nuvipannu"
       }
     ]
   },
   "work": [
     {
-      "company": "Pied Piper",
-      "position": "CEO/President",
-      "website": "http://piedpiper.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "company": "MotiveMetrics",
+      "position": "Software Engineer",
+      "website": "http://www.motivemetrics.com/",
+      "startDate": "2015-10-01",
+      "summary": "MotiveMetrics is an on-demand SaaS platform that features a unique motivational analysis technology productizes 60+ years of research in psychology and human decision-making",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Worked closely with the engineering team to track down bugs and improve documentation on Github",
+        "Implemented server-side unit testing for quality assurance and software functionality of API",
+        "Designed, tested, and debugged the TipTap stand alone app to create personality profile analyses"
+      ]
+    },
+    {
+      "company": "Aborn Compounding Pharmacy",
+      "position": "Compound Pharmacist",
+      "website": "http://www.abornpharmacy.com/",
+      "startDate": "2014-01-01",
+      "endDate": "2015-01-01",
+      "summary": "",
+      "highlights": [
+        "Practiced active listening and empathetic responding while counseling patients on their medications",
+        "Consulted with hundreds of physicians and patients to fill prescriptions, reviewe side effects, discuss drug interactions and resolve medication delivery problems to provide great customer service",
+        "Recognized for ability to manage high volume of patient accounts using proprietary software",
+        "Improved drug-inventory management system to reduce waste and eliminate back orders"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "website": "http://coderdojo.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
+      "organization": "TipTap",
+      "position": "Stand alone app built while working at MotiveMetrics",
+      "website": "https://tiptap.com/",
+      "startDate": "2015-11-01",
+      "summary": "Web application that analyzes users text to create individual personality profiles using a science-validated mathematical model and allows them to learn about themselves, how they communicate, compare their personalities to online identities, or see how similar they are to their friends",
       "highlights": [
-        "Awarded 'Teacher of the Month'"
+        "Developed and designed the app using Javascript, HTML, and CSS with Meteor.js framework",
+        "Engineered text data to be analyzed and expressed in a mathematical model of personality traits",
+        "Wrote server-side code to store text and user data from MongoDB in the API server (Couchbase)",
+        "Reduced the time to render the user's buddy list by 75% by implementing asynchronous algorithmn"
+      ]
+    },
+    {
+      "organization": "TubeMine",
+      "position": "Solo Coding Project",
+      "website": "https://tubemine.meteor.com/",
+      "startDate": "2015-09-01",
+      "endDate": "2015-10-01",
+      "summary": "Web application that allows users to search for Youtube channels & videos by keywords and then view comments made by users in a populated list.",
+      "highlights": [
+        "Developed the app using Javascript, HTML, and CSS with Meteor.js framework",
+        "Designed the app using Semantic UI and Bootstrap to enhance the UI/UX presentation",
+        "Utilized Youtube API to query channels, videos, comments, and users for data expression",
+        "Implemented a MongoDB database collection for storing usernames and their comments"
+      ]
+    },
+    {
+      "organization": "Instascope",
+      "position": "Hackbright Solo Coding Project",
+      "website": "https://instascope.meteor.com",
+      "startDate": "2015-05-01",
+      "endDate": "2015-06-01",
+      "summary": "Web application that allows users to view Instagram photos posted near their current location in real time",
+      "highlights": [
+        "Integrated Google Maps API to display a map to a user showing their up-to-date geographic location",
+        "Utilized Instagram API to query photos by user’s geolocation and plotted photos on the community map",
+        "Designed the front-end views for the GPS map and the Instagram thumbnail gallery using Meteor.js framework",
+        "Implemented a MongoDB database collection for storing usernames and their encrypted passwords",
+        "Created the search and navigation bar, user form page, and the UI/UX using Bootstrap and HTML",
+        "Architected authentication for API's using OAuth2 and JSON web tokens"
+      ]
+    },
+    {
+      "organization": "Judgmental Eye",
+      "position": "Hackbright Partner Coding Project",
+      "website": "https://judgemental-eye.herokuapp.com/",
+      "endDate": "2015-05-01",
+      "summary": "Recommendations platform which lets individuals rate films and then predicts how others will rate that film",
+      "highlights": [
+        "Used a pearson correlation machine learning algorithm to calculate the pearson score based on the difference of two ratings in order to predict how other users will rate a certain movie",
+        "Incorporated Python ORM using SQLAlchemy to query MovieLen’s database, and populated custom SQL tables with their data",
+        "Created a login form and routing page that handles a user's submission of the form with Python Flask"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Oklahoma",
-      "area": "Information Technology",
-      "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
+      "institution": "Udacity",
+      "area": "Full Stack Web Developer Nanodegree",
+      "studyType": "Courses",
+      "startDate": "2015-08-01",
+      "endDate": "2015-09-01",
+      "gpa": "",
       "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
+        "Developed complex relational databases used to store applications' data, secured and configured Linux-based servers and built complete web application projects using Python, Javascript, HTML and CSS."
       ]
-    }
-  ],
-  "awards": [
+    },
     {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
-    }
-  ],
-  "publications": [
+      "institution": "Hackbright Academy",
+      "area": "Immersive Software Engineering Program",
+      "studyType": "",
+      "startDate": "2015-04-01",
+      "endDate": "2015-07-01",
+      "gpa": "",
+      "courses": [
+        "Python, JavaScript, HTML/CSS, SQL/ORMs, Flask, Git, CLI, data structures and algorithms, pair programming, scrum and agile development. Learned and practiced the fundamentals of computer science, full-stack web development, engineering empathy and deploying multiple fully-functional applications."
+      ]
+    },
     {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "website": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+      "institution": "Independent Coursework: Online",
+      "area": "(Earned certificates with distinction in all courses)",
+      "studyType": "",
+      "endDate": "2015-03-01",
+      "gpa": "",
+      "courses": [
+        "Introduction to Databases (Stanford)",
+        "Computer Science 101 (Stanford)"
+      ]
+    },
+    {
+      "institution": "University of California, San Diego",
+      "area": "B.S. Biochemistry and Cell Biology",
+      "studyType": "",
+      "endDate": "2013-12-01",
+      "gpa": "",
+      "courses": []
     }
   ],
   "skills": [
     {
       "name": "Web Development",
-      "level": "Master",
+      "level": "Proficient",
       "keywords": [
         "HTML",
         "CSS",
-        "Javascript"
+        "Javascript",
+        "Python",
+        "Bootstrap",
+        "Meteor.js",
+        "MongoDB",
+        "REST APIs",
+        "Flask",
+        "SQL"
       ]
     },
     {
-      "name": "Compression",
-      "level": "Master",
+      "name": "Other Technologies",
+      "level": "Proficient",
       "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
+        "Github",
+        "CLI",
+        "Mac OS X",
+        "Windows",
+        "Linux",
+        "Heroku",
+        "Couchbase",
+        "Chef",
+        "Pivotal Tracker",
+        "Slack"
       ]
     }
   ],
@@ -110,21 +198,54 @@
     {
       "language": "English",
       "fluency": "Native speaker"
+    },
+    {
+      "language": "Punjabi",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Intermediate"
     }
   ],
   "interests": [
     {
-      "name": "Wildlife",
+      "name": "Computer Gaming",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
+        "Counterstrike Global Offensive 💣",
+        "League of Legends ⚔",
+        "Heroes of Newerth 🛡",
+        "Killing Floor 🔫 ",
+        "Starcraft 👾"
+      ]
+    },
+    {
+      "name": "Health & Fitness",
+      "keywords": [
+        "Running 🏃",
+        "Weightlifting 🏋",
+        "Boxing 👊",
+        "Swimming 🏊",
+        "Eating Clean 🍎"
       ]
     }
   ],
   "references": [
     {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+      "name": "Dilbag Singh, Engineering Mananger at Western Digital",
+      "reference": "Nuvi is a very hardworking and intelligent person. She has worked hard to transform herself from a College graduate to train in a an area that she feels she can best contribute to in a passionate way. Given the right opportunity with an employer that can harness her skills and develop her career, I believe she would excel. She has shown me several example of her very impressive projects."
+    },
+    {
+      "name": "Matthew Jesuele, Cofounder/CTO at Mooch",
+      "reference": "I've had the pleasure of both teaching and working with Nuvi on several occasions now, and I'm impressed by her smarts and her drive. I have no doubt that she will give 110% of her considerable capacity to whatever she does."
+    },
+    {
+      "name": "Steven Shyun, Director of Marketing and Outreach",
+      "reference": "Nuvi is an extremely hard and thorough worker. I've had the pleasure of working with Nuvi at Outco. She has great problem solving abilities and knows how to break down a large complex problem into many smaller problems. She is professional and results-oriented, but is also a fun, active person to have around too."
     }
   ]
 }
