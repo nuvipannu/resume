@@ -2,7 +2,7 @@
   "basics": {
     "name": "Nuvi Pannu",
     "label": "Developer/Tech ♡er",
-    "picture": "http://img.photobucket.com/albums/v107/nuvydeep/9fadf3ed-a968-4945-819f-70d8cd00de53_zpsbajx5y0b.jpg",
+    "picture": "http://i.imgur.com/ns7polk.jpg?1",
     "email": "nuvipannu@gmail.com",
     "phone": "(408) 500-8469",
     "website": "",
@@ -38,7 +38,6 @@
       "position": "Software Engineer",
       "website": "http://www.motivemetrics.com/",
       "startDate": "2015-10-01",
-      "endDate": "",
       "summary": "MotiveMetrics is an on-demand SaaS platform that features a unique motivational analysis technology productizes 60+ years of research in psychology and human decision-making",
       "highlights": [
         "Worked closely with the engineering team to track down bugs and improve documentation on Github",
@@ -50,8 +49,8 @@
       "company": "Aborn Compounding Pharmacy",
       "position": "Compound Pharmacist",
       "website": "http://www.abornpharmacy.com/",
-      "startDate": "2014-01",
-      "endDate": "2015-01",
+      "startDate": "2014-01-01",
+      "endDate": "2015-01-01",
       "summary": "",
       "highlights": [
         "Practiced active listening and empathetic responding while counseling patients on their medications",
@@ -67,7 +66,6 @@
       "position": "Stand alone app built while working at MotiveMetrics",
       "website": "https://tiptap.com/",
       "startDate": "2015-11-01",
-      "endDate": "",
       "summary": "Web application that analyzes users text to create individual personality profiles using a science-validated mathematical model and allows them to learn about themselves, how they communicate, compare their personalities to online identities, or see how similar they are to their friends",
       "highlights": [
         "Developed and designed the app using Javascript, HTML, and CSS with Meteor.js framework",
@@ -80,8 +78,8 @@
       "organization": "TubeMine",
       "position": "Solo Coding Project",
       "website": "https://tubemine.meteor.com/",
-      "startDate": "2015-09",
-      "endDate": "2015-10",
+      "startDate": "2015-09-01",
+      "endDate": "2015-10-01",
       "summary": "Web application that allows users to search for Youtube channels & videos by keywords and then view comments made by users in a populated list.",
       "highlights": [
         "Developed the app using Javascript, HTML, and CSS with Meteor.js framework",
@@ -94,8 +92,8 @@
       "organization": "Instascope",
       "position": "Hackbright Solo Coding Project",
       "website": "https://instascope.meteor.com",
-      "startDate": "2015-05",
-      "endDate": "2015-06",
+      "startDate": "2015-05-01",
+      "endDate": "2015-06-01",
       "summary": "Web application that allows users to view Instagram photos posted near their current location in real time",
       "highlights": [
         "Integrated Google Maps API to display a map to a user showing their up-to-date geographic location",
@@ -110,8 +108,7 @@
       "organization": "Judgmental Eye",
       "position": "Hackbright Partner Coding Project",
       "website": "https://judgemental-eye.herokuapp.com/",
-      "startDate": "",
-      "endDate": "2015-05",
+      "endDate": "2015-05-01",
       "summary": "Recommendations platform which lets individuals rate films and then predicts how others will rate that film",
       "highlights": [
         "Used a pearson correlation machine learning algorithm to calculate the pearson score based on the difference of two ratings in order to predict how other users will rate a certain movie",
@@ -125,8 +122,8 @@
       "institution": "Udacity",
       "area": "Full Stack Web Developer Nanodegree",
       "studyType": "Courses",
-      "startDate": "2015-08",
-      "endDate": "2015-09",
+      "startDate": "2015-08-01",
+      "endDate": "2015-09-01",
       "gpa": "",
       "courses": [
         "Developed complex relational databases used to store applications' data, secured and configured Linux-based servers and built complete web application projects using Python, Javascript, HTML and CSS."
@@ -147,7 +144,6 @@
       "institution": "Independent Coursework: Online",
       "area": "(Earned certificates with distinction in all courses)",
       "studyType": "",
-      "startDate": "",
       "endDate": "2015-03-01",
       "gpa": "",
       "courses": [
@@ -159,27 +155,9 @@
       "institution": "University of California, San Diego",
       "area": "B.S. Biochemistry and Cell Biology",
       "studyType": "",
-      "startDate": "",
       "endDate": "2013-12-01",
       "gpa": "",
       "courses": []
-    }
-  ],
-  "awards": [
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    }
-  ],
-  "publications": [
-    {
-      "name": "",
-      "publisher": "",
-      "releaseDate": "",
-      "website": "",
-      "summary": ""
     }
   ],
   "skills": [
@@ -214,11 +192,6 @@
         "Pivotal Tracker",
         "Slack"
       ]
-    },
-    {
-      "name": "",
-      "level": "",
-      "keywords": []
     }
   ],
   "languages": [
