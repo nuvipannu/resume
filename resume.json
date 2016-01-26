@@ -6,7 +6,7 @@
     "email": "nuvipannu@gmail.com",
     "phone": "(408) 500-8469",
     "website": "",
-    "summary": "Nuvi is a highly motivated tech-support enthusiast with programming experience skilled in troubleshooting, analyzing and resolving complex technical issues. She has technical experience and exposure to programming as she is currently working as a software engineer at a startup. Nuvi uses Github very often on the job and loves the developers on there. She loves interacting with people and talking about technical concepts while finding solutions to open-ended problems. She also enjoys writing with an empathetic yet unique voice and is able to do it in a clear and concise manner. Nuvi is really passionate about helping people and improving people’s lives with the use of innovative products.",
+    "summary": "Nuvi is a highly motivated tech-support enthusiast with programming experience skilled in troubleshooting, analyzing and resolving complex technical issues. She has technical experience and exposure to programming as she is currently working as a software engineer at a startup. Nuvi uses Github very often on the job and loves the developers on there. She is deeply interested in interacting with people and talking about technical concepts while finding solutions to open-ended problems. She also enjoys writing with an empathetic yet unique voice and is able to do it in a clear and concise manner. Nuvi is really passionate about helping people and improving people’s lives with the use of innovative products.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -100,7 +100,7 @@
       "highlights": [
         "Integrated Google Maps API to display a map to a user showing their up-to-date geographic location",
         "Utilized Instagram API to query photos by user’s geolocation and plotted photos on the community map",
-        "Designed the front-end views for the GPS map and the Instagram thumbnail gallery using Meteor.js framework",
+        "Designed the front-end views for the GPS map and the Instagram thumbnail gallery using Meteor.js",
         "Implemented a MongoDB database collection for storing usernames and their encrypted passwords",
         "Created the search and navigation bar, user form page, and the UI/UX using Bootstrap and HTML",
         "Architected authentication for API's using OAuth2 and JSON web tokens"
