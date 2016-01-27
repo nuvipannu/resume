@@ -6,7 +6,7 @@
     "email": "nuvipannu@gmail.com",
     "phone": "(408) 500-8469",
     "website": "",
-    "summary": "Nuvi is a highly motivated tech-support enthusiast with programming experience skilled in troubleshooting, analyzing and resolving complex technical issues. She has technical experience and exposure to programming as she is currently working as a software engineer at a startup. Nuvi uses Github very often on the job and loves the developers on there. She is deeply interested in interacting with people and talking about technical concepts while finding solutions to open-ended problems. She also enjoys writing with an empathetic yet unique voice and is able to do it in a clear and concise manner. Nuvi is really passionate about helping people and improving people’s lives with the use of innovative products.",
+    "summary": "Nuvi is a highly motivated tech-support enthusiast with programming experience skilled in troubleshooting, analyzing and resolving complex technical issues. She has technical experience and exposure to programming as she is currently working as a software engineer at a startup. Nuvi uses GitHub very often on the job and loves the developers on there. She is deeply interested in interacting with people and talking about technical concepts while finding solutions to open-ended problems. She also enjoys writing with an empathetic yet unique voice and is able to do it in a clear and concise manner. Nuvi is really passionate about helping people and improving people’s lives with the use of innovative products.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -16,17 +16,17 @@
     },
     "profiles": [
       {
-        "network": "😻 Github",
+        "network": ":octocat: GitHub",
         "username": "nuvipannu",
         "url": "https://github.com/nuvipannu"
       },
       {
-        "network": "💘 LinkedIn",
+        "network": ":busts_in_silhouette: LinkedIn",
         "username": "nuvipannu",
         "url": "https://linkedin.com/in/nuvipannu"
       },
       {
-        "network": "💙 Twitter",
+        "network": ":baby_chick: Twitter",
         "username": "nuvipannu",
         "url": "https://twitter.com/nuvipannu"
       }
@@ -40,7 +40,7 @@
       "startDate": "2015-10-01",
       "summary": "MotiveMetrics is an on-demand SaaS platform that features a unique motivational analysis technology productizes 60+ years of research in psychology and human decision-making",
       "highlights": [
-        "Worked closely with the engineering team to track down bugs and improve documentation on Github",
+        "Worked closely with the engineering team to track down bugs and improve documentation on GitHub",
         "Implemented server-side unit testing for quality assurance and software functionality of API",
         "Designed, tested, and debugged the TipTap stand alone app to create personality profile analyses"
       ]
@@ -153,7 +153,7 @@
     },
     {
       "institution": "University of California, San Diego",
-      "area": "B.S. Biochemistry and Cell Biology",
+      "area": ":mortar_board: B.S. Biochemistry and Cell Biology",
       "studyType": "",
       "endDate": "2013-12-01",
       "gpa": "",
@@ -181,7 +181,7 @@
       "name": "Other Technologies",
       "level": "Proficient",
       "keywords": [
-        "Github",
+        "GitHub",
         "CLI",
         "Mac OS X",
         "Windows",
@@ -216,21 +216,21 @@
     {
       "name": "Computer Gaming",
       "keywords": [
-        "Counterstrike Global Offensive 💣",
-        "League of Legends ⚔",
-        "Heroes of Newerth 🛡",
-        "Killing Floor 🔫 ",
-        "Starcraft 👾"
+        ":bomb: Counterstrike Global Offensive",
+        ":trident: League of Legends",
+        ":beginner: Heroes of Newerth",
+        ":gun: Killing Floor",
+        ":space_invader: Starcraft"
       ]
     },
     {
       "name": "Health & Fitness",
       "keywords": [
-        "Running 🏃",
-        "Weightlifting 🏋",
-        "Boxing 👊",
-        "Swimming 🏊",
-        "Eating Clean 🍎"
+        ":runner: Running",
+        ":muscle: Weightlifting",
+        ":facepunch: Boxing",
+        ":swimmer: Swimming",
+        ":green_apple: Eating Clean"
       ]
     }
   ],
