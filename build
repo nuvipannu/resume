@@ -1,0 +1,2 @@
+resume export index.html --theme class2
+emojer -p index.html -o index.html -t "<img src='https://github.global.ssl.fastly.net/images/icons/emoji/__EMOJI_NAME__.png?v5' style='vertical-align: middle;margin-top: -3px; margin-right: 6px;' height='20'>"
