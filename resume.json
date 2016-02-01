@@ -4,7 +4,7 @@
     "label": "Developer/Tech ♡er",
     "picture": "http://i.imgur.com/ns7polk.jpg?1",
     "email": "nuvipannu@gmail.com",
-    "phone": "(408) 500-8469",
+    "phone": ":iphone: (408) 500-8469",
     "website": "",
     "summary": "Nuvi is a highly motivated tech-support enthusiast with programming experience skilled in troubleshooting, analyzing and resolving complex technical issues. She has technical experience and exposure to programming as she is currently working as a software engineer at a startup. Nuvi uses GitHub very often on the job and loves the developers on there. She is deeply interested in interacting with people and talking about technical concepts while finding solutions to open-ended problems. She also enjoys writing with an empathetic yet unique voice and is able to do it in a clear and concise manner. Nuvi is really passionate about helping people and improving people’s lives with the use of innovative products.",
     "location": {
@@ -29,12 +29,17 @@
         "network": ":baby_chick: Twitter",
         "username": "nuvipannu",
         "url": "https://twitter.com/nuvipannu"
+      },
+      {
+        "network": ":signal_strength: Stack Overflow",
+        "username": "nuvi-pannu",
+        "url": "http://stackoverflow.com/users/5566401/nuvi-pannu?tab=profile"
       }
     ]
   },
   "work": [
     {
-      "company": "MotiveMetrics",
+      "company": ":m: MotiveMetrics",
       "position": "Software Engineer",
       "website": "http://www.motivemetrics.com/",
       "startDate": "2015-10-01",
@@ -46,7 +51,7 @@
       ]
     },
     {
-      "company": "Aborn Compounding Pharmacy",
+      "company": ":pill: Aborn Compounding Pharmacy",
       "position": "Compound Pharmacist",
       "website": "http://www.abornpharmacy.com/",
       "startDate": "2014-01-01",
@@ -226,10 +231,10 @@
     {
       "name": "Health & Fitness",
       "keywords": [
-        ":runner: Running",
         ":muscle: Weightlifting",
-        ":facepunch: Boxing",
+        ":runner: Running",
         ":swimmer: Swimming",
+        ":facepunch: Boxing",
         ":green_apple: Eating Clean"
       ]
     }
