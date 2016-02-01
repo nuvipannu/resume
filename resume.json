@@ -1,10 +1,10 @@
 {
   "basics": {
     "name": "Nuvi Pannu",
-    "label": "Developer/Tech ♡er",
+    "label": ":computer: Developer/Tech ♡er",
     "picture": "http://i.imgur.com/ns7polk.jpg?1",
     "email": "nuvipannu@gmail.com",
-    "phone": "(408) 500-8469",
+    "phone": ":iphone: (408) 500-8469",
     "website": "",
     "summary": "Nuvi is a highly motivated tech-support enthusiast with programming experience skilled in troubleshooting, analyzing and resolving complex technical issues. She has technical experience and exposure to programming as she is currently working as a software engineer at a startup. Nuvi uses GitHub very often on the job and loves the developers on there. She is deeply interested in interacting with people and talking about technical concepts while finding solutions to open-ended problems. She also enjoys writing with an empathetic yet unique voice and is able to do it in a clear and concise manner. Nuvi is really passionate about helping people and improving people’s lives with the use of innovative products.",
     "location": {
@@ -29,12 +29,17 @@
         "network": ":baby_chick: Twitter",
         "username": "nuvipannu",
         "url": "https://twitter.com/nuvipannu"
+      },
+      {
+        "network": ":signal_strength: Stack Overflow",
+        "username": "nuvi-pannu",
+        "url": "http://stackoverflow.com/users/5566401/nuvi-pannu?tab=profile"
       }
     ]
   },
   "work": [
     {
-      "company": "MotiveMetrics",
+      "company": ":m: MotiveMetrics",
       "position": "Software Engineer",
       "website": "http://www.motivemetrics.com/",
       "startDate": "2015-10-01",
@@ -46,7 +51,7 @@
       ]
     },
     {
-      "company": "Aborn Compounding Pharmacy",
+      "company": ":pill: Aborn Compounding Pharmacy",
       "position": "Compound Pharmacist",
       "website": "http://www.abornpharmacy.com/",
       "startDate": "2014-01-01",
@@ -62,7 +67,7 @@
   ],
   "volunteer": [
     {
-      "organization": "TipTap",
+      "organization": ":robot: TipTap",
       "position": "Stand alone app built while working at MotiveMetrics",
       "website": "https://tiptap.com/",
       "startDate": "2015-11-01",
@@ -75,7 +80,7 @@
       ]
     },
     {
-      "organization": "TubeMine",
+      "organization": ":tv: TubeMine",
       "position": "Solo Coding Project",
       "website": "https://tubemine.meteor.com/",
       "startDate": "2015-09-01",
@@ -89,7 +94,7 @@
       ]
     },
     {
-      "organization": "Instascope",
+      "organization": ":camera_with_flash: Instascope",
       "position": "Hackbright Solo Coding Project",
       "website": "https://instascope.meteor.com",
       "startDate": "2015-05-01",
@@ -105,7 +110,7 @@
       ]
     },
     {
-      "organization": "Judgmental Eye",
+      "organization": ":eye: Judgmental Eye",
       "position": "Hackbright Partner Coding Project",
       "website": "https://judgemental-eye.herokuapp.com/",
       "endDate": "2015-05-01",
@@ -216,10 +221,10 @@
     {
       "name": "Computer Gaming",
       "keywords": [
-        ":bomb: Counterstrike Global Offensive",
-        ":trident: League of Legends",
-        ":beginner: Heroes of Newerth",
-        ":gun: Killing Floor",
+        ":gun: Counterstrike Global Offensive",
+        ":crossed_swords: League of Legends",
+        ":trident: Heroes of Newerth",
+        ":skull_and_crossbones: Killing Floor",
         ":space_invader: Starcraft"
       ]
     },
@@ -228,8 +233,8 @@
       "keywords": [
         ":runner: Running",
         ":muscle: Weightlifting",
-        ":facepunch: Boxing",
         ":swimmer: Swimming",
+        ":facepunch: Boxing",
         ":green_apple: Eating Clean"
       ]
     }
