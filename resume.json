@@ -85,7 +85,7 @@
       "website": "https://tubemine.meteor.com/",
       "startDate": "2015-09-01",
       "endDate": "2015-10-01",
-      "summary": "Web application that allows users to search for Youtube channels & videos by keywords and then view comments made by users in a populated list.",
+      "summary": "Web application that allows users to search for Youtube channels & videos by keywords and then view comments made by users in a populated list",
       "highlights": [
         "Developed the app using Javascript, HTML, and CSS with Meteor.js framework",
         "Designed the app using Semantic UI and Bootstrap to enhance the UI/UX presentation",
@@ -131,7 +131,7 @@
       "endDate": "2015-09-01",
       "gpa": "",
       "courses": [
-        "Developed complex relational databases used to store applications' data, secured and configured Linux-based servers and built complete web application projects using Python, Javascript, HTML and CSS."
+        "Developed complex relational databases used to store applications' data, secured and configured Linux-based servers and built complete web application projects using Python, Javascript, HTML and CSS"
       ]
     },
     {
@@ -142,7 +142,7 @@
       "endDate": "2015-07-01",
       "gpa": "",
       "courses": [
-        "Python, JavaScript, HTML/CSS, SQL/ORMs, Flask, Git, CLI, data structures and algorithms, pair programming, scrum and agile development. Learned and practiced the fundamentals of computer science, full-stack web development, engineering empathy and deploying multiple fully-functional applications."
+        "Python, JavaScript, HTML, CSS, Bootstrap, SQL, ORMs, Flask, Git, CLI, data structures and algorithms, pair programming, scrum and agile development, fundamentals of computer science, full-stack web development, and engineering empathy"
       ]
     },
     {
